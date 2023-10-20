@@ -16,4 +16,6 @@
          -  if the last digit of `n` is 0: the string `and is 0`
          -  if the last digit of `n` is less than 6 and not 0: the string `and is less than 6 and not 0`
 *  2-print_alphabet.c
-   - Write a program that prints the alphabet in lowercase, followed by a new line. 
+   - Write a program that prints the alphabet in lowercase, followed by a new line.
+*  3-print_alphabets.c
+   - Write a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line. 
