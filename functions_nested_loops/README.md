@@ -11,4 +11,6 @@
 *  4-isalpha.c
    - Write a function that checks for alphabetic character.
 *  5-sign.c
-   - Write a funtcion that prints the sign of a number.
+   - Write a function that prints the sign of a number.
+*  6-abs.c
+   - Write a function that computes the absolute value of an integer.
