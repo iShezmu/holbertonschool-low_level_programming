@@ -11,3 +11,9 @@
      - name of the executable: `school`
      - rules: `all`
      - variables:`CC`, `SRC`
+*  2-Makefile
+   - Requirements:
+     - name of the executable: `school`
+     - rules: `all`
+     - variables:`CC`, `SRC`, `OBJ`, `NAME`
+     - The `all` rule should recompile only the updated source files.
