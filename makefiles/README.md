@@ -24,3 +24,10 @@
      - variables:`CC`, `SRC`, `OBJ`, `NAME`, `RM`
      - The `all` rule should recompile only the updated source files.
      - The `clean`, `oclean`, `fclean`, `re` rules should never fail.
+*  4-Makefile
+   - Requirements:
+     - name of the executable: `school`
+     - rules: `all`, `clean`, `oclean`, `fclean`, `re`.
+     - variables:`CC`, `SRC`, `OBJ`, `NAME`, `RM`, `CFLAGS`
+     - The `all` rule should recompile only the updated source files.
+     - The `clean`, `oclean`, `fclean`, `re` rules should never fail.
