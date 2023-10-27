@@ -12,3 +12,6 @@
 *   3-puts.c
     - Write a function that prints a string, followed by a new line, to `stdout`.
       - Prototype: `int _puts(char *str);`
+*   4-print_rev.c
+    - Write a function that prints a string, followed by a new line.
+      - Prototype: `void print_rev(char *s);`
