@@ -16,4 +16,10 @@
      - Prototype: `char *str_concat(char *s1, char *s2);`
      - The returned pointer should point to a newly allocated space in memory which contains the contents of `s1`, followed by the contents of `s2`, and null terminated.
      - If `NULL` is passed, treat is an empty string
-     - The function should return `NULL` on failure                                                             
+     - The function should return `NULL` on failure
+*  3-alloc_grid.c
+   - Write a function that returns a pointer to a 2 dimensional array of integers.
+     - Prototype: `int **alloc_grid(int width, int height);`
+     - Each element of the grid should be initialized to `0`
+     - The function should return `NULL` on failure.
+     - If `width` or `height`is `0` or negative, return `NULL`                                
